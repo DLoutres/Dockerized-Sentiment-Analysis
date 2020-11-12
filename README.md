@@ -20,4 +20,6 @@ If you wish to train the model again, model.pkl should be deleted, since a new o
 
 The dataset used can be found here: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
-We chose this dataset beacuse of its volume almost 15,000 tweet examples and also because we thought it would be interesting to learn about which American airline companies are more positive. 
+We chose this dataset beacuse of its volume almost 15,000 tweet examples and also because we thought it would be interesting to see if a model train on tweets can be better to compare with reviews.
+
+Our web app is themed for movie reviews "Mugen train" from demon slayer. We want to know if every single person liked the movie. So when you enter something it will say if it is a positive, negative or neutral review.
