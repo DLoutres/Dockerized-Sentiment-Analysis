@@ -10,7 +10,7 @@ Pipeline{
     stage('Test'){
       steps{
         echo 'Running flask application'
-        sh 'docker run -p 5000:5000 --name myflaskapp2
+        sh 'docker run -p 5000:5000 --name myflaskapp2'
       }
     } 
   }
